@@ -9,6 +9,8 @@
 .. type: text
 -->
 
+![Jasdeep](/images/jasdeep-photo-small.jpg)
+
 Welcome! My name is Jasdeep Singh. I am a software engineer, a translator, and an
 aspiring researcher of humanities and social sciences.
 

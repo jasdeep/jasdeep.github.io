@@ -6,143 +6,415 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://localhost:8000/</loc>
+  <loc>http://jasdeep.github.com/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/2010/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/2012/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/2015/</loc>
   <lastmod>2016-09-12T09:47:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/2015/</loc>
+  <loc>http://jasdeep.github.com/2016/</loc>
+  <lastmod>2016-09-12T11:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/archive.html</loc>
+  <lastmod>2016-09-12T13:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/categories/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/categories/bollywood/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/categories/caste/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/categories/cat_writing/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/categories/film/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/categories/inequality/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/categories/media/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/categories/politics/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/categories/punjab/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/categories/rationalism/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/categories/review/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/categories/rural/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/categories/society/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/cv/</loc>
   <lastmod>2016-09-12T09:47:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/archive.html</loc>
-  <lastmod>2016-09-12T10:17:00Z</lastmod>
- </url>
- <url>
-  <loc>http://localhost:8000/categories/</loc>
+  <loc>http://jasdeep.github.com/galleries/</loc>
   <lastmod>2016-09-12T09:47:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/cv/</loc>
+  <loc>http://jasdeep.github.com/hi/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/hi/2010/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/hi/2012/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/hi/2015/</loc>
   <lastmod>2016-09-12T09:47:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/galleries/</loc>
+  <loc>http://jasdeep.github.com/hi/2016/</loc>
+  <lastmod>2016-09-12T11:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/hi/archive.html</loc>
+  <lastmod>2016-09-12T13:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/hi/categories/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/hi/categories/bollywood/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/hi/categories/caste/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/hi/categories/cat_writing/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/hi/categories/film/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/hi/categories/inequality/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/hi/categories/media/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/hi/categories/politics/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/hi/categories/punjab/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/hi/categories/rationalism/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/hi/categories/review/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/hi/categories/rural/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/hi/categories/society/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/hi/cv/</loc>
   <lastmod>2016-09-12T09:47:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/hi/</loc>
+  <loc>http://jasdeep.github.com/hi/galleries/</loc>
   <lastmod>2016-09-12T09:47:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/hi/2015/</loc>
+  <loc>http://jasdeep.github.com/hi/posts/</loc>
+  <lastmod>2016-09-12T12:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/hi/posts/peepli-live/</loc>
+  <lastmod>2016-09-12T12:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/hi/posts/post-1/</loc>
   <lastmod>2016-09-12T09:47:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/hi/archive.html</loc>
-  <lastmod>2016-09-12T10:17:00Z</lastmod>
+  <loc>http://jasdeep.github.com/hi/posts/rationalist/</loc>
+  <lastmod>2016-09-12T11:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/hi/categories/</loc>
+  <loc>http://jasdeep.github.com/listings/</loc>
   <lastmod>2016-09-12T09:47:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/hi/cv/</loc>
+  <loc>http://jasdeep.github.com/listings/__pycache__/</loc>
   <lastmod>2016-09-12T09:47:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/hi/galleries/</loc>
+  <loc>http://jasdeep.github.com/listings/hello.py.html</loc>
+  <lastmod>2016-09-12T13:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/pa/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/pa/2010/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/pa/2012/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/pa/2015/</loc>
   <lastmod>2016-09-12T09:47:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/hi/posts/</loc>
+  <loc>http://jasdeep.github.com/pa/2016/</loc>
+  <lastmod>2016-09-12T11:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/pa/archive.html</loc>
+  <lastmod>2016-09-12T13:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/pa/categories/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/pa/categories/bollywood/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/pa/categories/caste/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/pa/categories/cat_writing/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/pa/categories/film/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/pa/categories/inequality/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/pa/categories/media/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/pa/categories/politics/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/pa/categories/punjab/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/pa/categories/rationalism/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/pa/categories/review/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/pa/categories/rural/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/pa/categories/society/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/pa/cv/</loc>
   <lastmod>2016-09-12T09:47:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/hi/posts/post-1/</loc>
+  <loc>http://jasdeep.github.com/pa/galleries/</loc>
   <lastmod>2016-09-12T09:47:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/listings/</loc>
+  <loc>http://jasdeep.github.com/pa/posts/</loc>
+  <lastmod>2016-09-12T12:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/pa/posts/peepli-live/</loc>
+  <lastmod>2016-09-12T12:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/pa/posts/post-1/</loc>
   <lastmod>2016-09-12T09:47:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/listings/__pycache__/</loc>
+  <loc>http://jasdeep.github.com/pa/posts/rationalist/</loc>
+  <lastmod>2016-09-12T11:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/posts/</loc>
+  <lastmod>2016-09-12T12:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/posts/peepli-live/</loc>
+  <lastmod>2016-09-12T12:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/posts/post-1/</loc>
   <lastmod>2016-09-12T09:47:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/listings/hello.py.html</loc>
-  <lastmod>2016-09-12T10:19:00Z</lastmod>
+  <loc>http://jasdeep.github.com/posts/rationalist/</loc>
+  <lastmod>2016-09-12T11:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/pa/</loc>
+  <loc>http://jasdeep.github.com/ur/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/ur/2010/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/ur/2012/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/ur/2015/</loc>
   <lastmod>2016-09-12T09:47:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/pa/2015/</loc>
+  <loc>http://jasdeep.github.com/ur/2016/</loc>
+  <lastmod>2016-09-12T11:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/ur/archive.html</loc>
+  <lastmod>2016-09-12T13:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/ur/categories/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/ur/categories/bollywood/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/ur/categories/caste/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/ur/categories/cat_writing/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/ur/categories/film/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/ur/categories/inequality/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/ur/categories/media/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/ur/categories/politics/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/ur/categories/punjab/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/ur/categories/rationalism/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/ur/categories/review/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/ur/categories/rural/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/ur/categories/society/</loc>
+  <lastmod>2016-09-12T13:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/ur/cv/</loc>
   <lastmod>2016-09-12T09:47:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/pa/archive.html</loc>
-  <lastmod>2016-09-12T10:17:00Z</lastmod>
- </url>
- <url>
-  <loc>http://localhost:8000/pa/categories/</loc>
+  <loc>http://jasdeep.github.com/ur/galleries/</loc>
   <lastmod>2016-09-12T09:47:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/pa/cv/</loc>
+  <loc>http://jasdeep.github.com/ur/posts/</loc>
+  <lastmod>2016-09-12T12:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/ur/posts/peepli-live/</loc>
+  <lastmod>2016-09-12T12:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jasdeep.github.com/ur/posts/post-1/</loc>
   <lastmod>2016-09-12T09:47:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/pa/galleries/</loc>
-  <lastmod>2016-09-12T09:47:00Z</lastmod>
- </url>
- <url>
-  <loc>http://localhost:8000/pa/posts/</loc>
-  <lastmod>2016-09-12T09:47:00Z</lastmod>
- </url>
- <url>
-  <loc>http://localhost:8000/pa/posts/post-1/</loc>
-  <lastmod>2016-09-12T09:47:00Z</lastmod>
- </url>
- <url>
-  <loc>http://localhost:8000/posts/</loc>
-  <lastmod>2016-09-12T09:47:00Z</lastmod>
- </url>
- <url>
-  <loc>http://localhost:8000/posts/post-1/</loc>
-  <lastmod>2016-09-12T09:47:00Z</lastmod>
- </url>
- <url>
-  <loc>http://localhost:8000/ur/</loc>
-  <lastmod>2016-09-12T09:47:00Z</lastmod>
- </url>
- <url>
-  <loc>http://localhost:8000/ur/2015/</loc>
-  <lastmod>2016-09-12T09:47:00Z</lastmod>
- </url>
- <url>
-  <loc>http://localhost:8000/ur/archive.html</loc>
-  <lastmod>2016-09-12T10:17:00Z</lastmod>
- </url>
- <url>
-  <loc>http://localhost:8000/ur/categories/</loc>
-  <lastmod>2016-09-12T09:47:00Z</lastmod>
- </url>
- <url>
-  <loc>http://localhost:8000/ur/cv/</loc>
-  <lastmod>2016-09-12T09:47:00Z</lastmod>
- </url>
- <url>
-  <loc>http://localhost:8000/ur/galleries/</loc>
-  <lastmod>2016-09-12T09:47:00Z</lastmod>
- </url>
- <url>
-  <loc>http://localhost:8000/ur/posts/</loc>
-  <lastmod>2016-09-12T09:47:00Z</lastmod>
- </url>
- <url>
-  <loc>http://localhost:8000/ur/posts/post-1/</loc>
-  <lastmod>2016-09-12T09:47:00Z</lastmod>
+  <loc>http://jasdeep.github.com/ur/posts/rationalist/</loc>
+  <lastmod>2016-09-12T11:57:00Z</lastmod>
  </url>
 </urlset>
