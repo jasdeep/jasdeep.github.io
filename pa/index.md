@@ -8,6 +8,7 @@
 .. description: 
 .. type: text
 -->
+
 ![Jasdeep](/images/jasdeep-photo-small.jpg)
 
 ਜੀ ਆਇਆਂ ਨੂੰ ! ਮੇਰਾ ਨਾਂ ਜਸਦੀਪ ਸਿੰਘ ਹੈ | ਮੈਂ ਸਾਫਟਵੇਅਰ ਇੰਜੀਨੀਅਰ, ਅਨੁਵਾਦਕ, ਬੋਲੀਆਂ ਅਤੇ ਸਮਾਜ ਵਿਗਿਆਨ ਦਾ ਖੋਜੀ ਹੈਂ |  

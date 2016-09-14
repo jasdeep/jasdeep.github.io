@@ -9,14 +9,9 @@
 .. type: text
 -->
 
-
-Curriculum Vitae
-================
-
 | 				 |	 																|
 |----------------|------------------------------------------------------------------|
 | Location		 | [Chandigarh, India](<http://en.wikipedia.org/wiki/Chandigarh>)	|
-| Date of Birth  | 13th September 1984 												|
 | Address 		 | E003 Rail Vihar,MDC-4, Panchkula, Haryana-134109 				|
 | Phone 		 | [+91 9988638850](<tel:+919988638850>) 							|
 | E-mail 		 |[jasdeep.jogewala\@gmail.com](<email:jasdeep.jogewala@gmail.com>) |
@@ -119,22 +114,16 @@ Description *Translation of two poems of Punjabi poet Jaswant Singh Zafar*
 **Technologies** *Java, Scala, Python, JSP, JSF, Spring, MyBatis, Fuse
 Servicemix,*MSSQL, MongoDB*  
 **Description** Primary work on enhancements and building new integration
-modules in system that processes large amount of transactions daily.  
--   Performance optimization and Code Refactoring of Front End module.  
--   Worked closely with architecture team on multithreading related  
-    performance improvements in Core module.  
+modules in system that processes large amount of transactions daily. Performance optimization and Code Refactoring of Front End module. Worked closely with architecture team on multithreading related performance improvements in Core module.    
 
 #### [Net Solutions](<http://www.netsolutionsindia.com/>), Chandigarh
 
 **Timeline** *January 2010 - July 2011 (1.5 years)*
 **Role** *Web Developer*  
 **Technologies** *Java, Python, JSP, Struts, Spring, MyBatis, Hibernate, REST, MySQL*  
-**Description** Primary work on building e-commerce Web applications. - Built
-Backend and RESTful API for an app builder e-commerce application [Mobi
-Cart](<http://www.mobi-cart.com/>).  
+**Description** Primary work on building e-commerce Web applications. Built Backend and RESTful API for an app builder e-commerce application [Mobi Cart](<http://www.mobi-cart.com/>).  
 
 #### [Routeguru.com](<http://www.conceptcurry.com/startup-review/routeguru-textual-driving-directions/>), New Delhi
-
 **Timeline** *September 2008- December 2009 (1 year 5 months)*
 **Role** *Product Engineer*   
 **Technologies** *Java, J2EE, JSP, Struts, Spring, Hibernate, REST,PostgreSQL*  
@@ -147,11 +136,10 @@ Cart](<http://www.mobi-cart.com/>).
 **Description** Java/J2EE software development.
 
 #### Pal Info Com Pvt. Ltd, Chandigarh Office
-**Timeline** *June 2006 - November 2007 (1 year 6 months)*
-**Role** *Web Developer / System Administrator*
-**Technologies** *Java, J2EE, JSP, Struts*
-**Description** Worked on JSP,Servlets. Tomcat, JBoss as the application server.
--   Migrated Office Network from Windows platform to OpenSuse Linux.
+**Timeline** *June 2006 - November 2007 (1 year 6 months)*  
+**Role** *Web Developer / System Administrator*  
+**Technologies** *Java, J2EE, JSP, Struts*  
+**Description** Worked on JSP,Servlets. Tomcat, JBoss as the application server. Migrated Office Network from Windows platform to OpenSuse Linux.
 
 ### Certificates
 
