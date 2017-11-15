@@ -22,7 +22,7 @@ architects on the our core e Invoicing system.
 I have also worked as translator/additional dialogue writer for three award
 winning Punjabi films. I curate [a blog on translated Punjabi
 poetry](<https://parchanve.wordpress.com/>). I have presented on Punjabi poetry
-and films in some academic conferences.
+and films in academic conferences nationally and abroad.
 
 To get in touch, you can connect with me on
 [LinkedIn](<https://www.linkedin.com/>), or follow me
