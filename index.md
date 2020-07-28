@@ -8,10 +8,7 @@
 .. description: 
 .. type: text
 -->
-Welcome! My name is Jasdeep Singh. I am a software engineer, a translator, and an aspiring researcher of humanities and social sciences.
-
-Welcome! My name is Jasdeep Singh. I am a software engineer, a translator, and an
-aspiring researcher of humanities and social sciences.
+Welcome! My name is Jasdeep Singh. I am a software engineer, a translator, and a screenwriter.
 
 This website (previously based on Github pages) has been moved to [jasdeep.netify.app](<https://jasdeep.netlify.app/>)
 
